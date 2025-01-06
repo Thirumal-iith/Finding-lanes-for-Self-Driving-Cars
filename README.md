@@ -113,9 +113,6 @@ Run the script and observe the detected lane lines overlayed on the video:
 - Add functionality for detecting lane changes.
 - Optimize for better performance on higher resolution videos.
 
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
 
 ## Author
 
